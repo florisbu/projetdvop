@@ -20,4 +20,4 @@ services:
       PASSWORD: python
 
   volumes:
-    -/home/centos/4DVOPS/project/projetdvop/simple_api/student_age.json
+    -/home/centos/4DVOPS/projetdvop/simple_api/student_age.json
